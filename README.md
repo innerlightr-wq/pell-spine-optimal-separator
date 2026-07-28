@@ -1,11 +1,11 @@
 # The Pell Spine as an Optimal Rational Separator
 
-Computational supplement to the Zenodo manuscript
-**"The Pell Spine as an Optimal Rational Separator: Extremal Resolution and Smooth Transport in Primitive Pythagorean Triples."**
+> **Companion repository for the archived Zenodo manuscript.**
+> The manuscript is the scholarly record; this repository provides deterministic computational reproduction of its arithmetic results.
+
+**Paper (archival record):** https://doi.org/10.5281/zenodo.21510910
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21510910.svg)](https://doi.org/10.5281/zenodo.21510910)
-
-**Paper (archival record):** <https://doi.org/10.5281/zenodo.21510910>
 
 This DOI represents all versions of the Zenodo record and resolves to the latest version.
 
