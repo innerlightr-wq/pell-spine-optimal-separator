@@ -1,0 +1,5 @@
+# Runtime dependency for figure generation.
+matplotlib>=3.5
+
+# Test dependency.
+pytest>=7.0

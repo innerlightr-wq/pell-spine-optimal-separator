@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite the archived paper on Zenodo
+  (see preferred-citation below).
+title: >-
+  The Pell Spine as an Optimal Rational Separator: Extremal Resolution and
+  Smooth Transport in Primitive Pythagorean Triples
+abstract: >-
+  Computational supplement to the Zenodo manuscript of the same name. It
+  reproduces the enumeration of primitive Pythagorean triples with hypotenuse
+  at most 5x10^6, the exact record minima of the normalized separation
+  Delta_k = (b - a)/c, and the Pell-spine recurrences. The paper is the
+  primary scholarly record; this repository confirms its arithmetic claims.
+type: software
+authors:
+  - family-names: De Jesús
+    given-names: Elias
+    orcid: https://orcid.org/0009-0007-0190-9143
+    email: dejesuselias10@gmail.com
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21510910
+    description: >-
+      Concept DOI of the archived manuscript that this repository supplements.
+      It represents all versions of the Zenodo record and resolves to the
+      latest version.
+doi: 10.5281/zenodo.21510910
+url: https://doi.org/10.5281/zenodo.21510910
+version: v1
+date-released: '2026-07-23'
+license: CC-BY-4.0
+keywords:
+  - Pythagorean triples
+  - Pell equation
+  - continued fractions
+  - best approximation
+  - quadratic residues
+  - complete elliptic integrals
+  - order of vanishing
+preferred-citation:
+  type: article
+  title: >-
+    The Pell Spine as an Optimal Rational Separator: Extremal Resolution and
+    Smooth Transport in Primitive Pythagorean Triples
+  authors:
+    - family-names: De Jesús
+      given-names: Elias
+      orcid: https://orcid.org/0009-0007-0190-9143
+      email: dejesuselias10@gmail.com
+  doi: 10.5281/zenodo.21510910
+  url: https://doi.org/10.5281/zenodo.21510910
+  publisher:
+    name: Zenodo
+  year: 2026
+  month: 7
+  license: CC-BY-4.0
